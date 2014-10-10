@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Karen\Hermes\app\build\pre-dexed\debug\jsoup-1.7.3-f347fb28432c5e5512748858f1ddfdbbc470bc7b.jar"
+        jar="C:\Karen\Hermes\app\libs\jsoup-1.7.3.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="ab1f22cadc2f8b514e55ba368f5128056fe304da"/>
+    <item
+        dex="C:\Karen\Hermes\app\build\pre-dexed\debug\gson-2.2.4-3319422e0c72adabba173d8a3bfaa90e9b767e60.jar"
+        jar="C:\Users\simon_t\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+    <item
+        dex="C:\Karen\Hermes\app\build\pre-dexed\debug\support-v4-19.0.1-4fa82f09993fcda2a99305d07781669728d9ac42.jar"
+        jar="C:\Users\simon_t\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+    <item
+        dex="C:\Karen\Hermes\app\build\pre-dexed\debug\classes-b4d680fd30504211fdb4ac6b0d0fb01a70c7affb.jar"
+        jar="C:\Karen\Hermes\build\exploded-aar\com.android.support\appcompat-v7\19.0.1\classes.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b"/>
+
+</pre-dex-items>
